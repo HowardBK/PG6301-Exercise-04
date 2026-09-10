@@ -1,0 +1,27 @@
+{
+  "name": "pg6301-exercise-04",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "prettier --check .",
+    "prepare": "husky"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HowardBK/PG6301-Exercise-04.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/HowardBK/PG6301-Exercise-04/issues"
+  },
+  "homepage": "https://github.com/HowardBK/PG6301-Exercise-04#readme",
+  "devDependencies": {
+    "husky": "^9.1.7",
+    "prettier": "^3.9.6",
+    "vite": "^8.3.0"
+  }
+}
